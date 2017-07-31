@@ -1,0 +1,202 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "64abb7c56aefca89046bb69f7251d2e2",
+      "css": "calendar",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "8ca5f77677a66dbe813213ca75ac1474",
+      "css": "mic",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "4d2f54ceffd4645d3ce6fe82b404190d",
+      "css": "mic-circled",
+      "code": 59394,
+      "src": "elusive"
+    },
+    {
+      "uid": "8489d61496923b1159b01d8a0a7b2df0",
+      "css": "volume-off",
+      "code": 59395,
+      "src": "elusive"
+    },
+    {
+      "uid": "5d9730dc93976d27eb07914eab50a507",
+      "css": "volume-down",
+      "code": 59396,
+      "src": "elusive"
+    },
+    {
+      "uid": "b59b3b618699b467541f631edd5a02ed",
+      "css": "volume",
+      "code": 59397,
+      "src": "elusive"
+    },
+    {
+      "uid": "012ff5762ccb18c16bdfdd6baf187406",
+      "css": "volume-up",
+      "code": 59398,
+      "src": "elusive"
+    },
+    {
+      "uid": "7689d722f0cb41f16f74b8149de5f71a",
+      "css": "calendar-circled",
+      "code": 59399,
+      "src": "elusive"
+    },
+    {
+      "uid": "d92a3efcdf848fb0abd9410b8d95813e",
+      "css": "person",
+      "code": 59400,
+      "src": "elusive"
+    },
+    {
+      "uid": "1e394b6cd5e0da3e10d8e4f3fe355960",
+      "css": "adult",
+      "code": 59401,
+      "src": "elusive"
+    },
+    {
+      "uid": "88ae7d00391a440ac7ccd009bcb34e4e",
+      "css": "guidedog",
+      "code": 59402,
+      "src": "elusive"
+    },
+    {
+      "uid": "b7685cc9e721c9430986e03e08afed83",
+      "css": "blind",
+      "code": 59403,
+      "src": "elusive"
+    },
+    {
+      "uid": "c737078cb69dfd2e8484e134ecbce791",
+      "css": "child",
+      "code": 59404,
+      "src": "elusive"
+    },
+    {
+      "uid": "d4385b9337eeaa7feb48465b50649042",
+      "css": "universal-access",
+      "code": 59405,
+      "src": "elusive"
+    },
+    {
+      "uid": "c99e966e3d22ec0b9d8678fd524e5512",
+      "css": "facebook",
+      "code": 59406,
+      "src": "elusive"
+    },
+    {
+      "uid": "0d024b966c51aff0cd02527eb7f21950",
+      "css": "vimeo",
+      "code": 59407,
+      "src": "elusive"
+    },
+    {
+      "uid": "34cfa573b7d6c70c298dfad4cac4d466",
+      "css": "vkontakte",
+      "code": 59408,
+      "src": "elusive"
+    },
+    {
+      "uid": "f9e7869be96161992f476eaa4219637d",
+      "css": "flickr",
+      "code": 59409,
+      "src": "elusive"
+    },
+    {
+      "uid": "e8ac3bb8871f23096fcab025ba5373cb",
+      "css": "w3c",
+      "code": 59410,
+      "src": "elusive"
+    },
+    {
+      "uid": "1a4351807d92cb6b27eabb24ec239889",
+      "css": "foursquare",
+      "code": 59411,
+      "src": "elusive"
+    },
+    {
+      "uid": "818869a1eb50dbf4ad9d2655fe835201",
+      "css": "friendfeed",
+      "code": 59412,
+      "src": "elusive"
+    },
+    {
+      "uid": "990d39e5b7e9750c55d2593b1cc61a0a",
+      "css": "youtube",
+      "code": 59413,
+      "src": "elusive"
+    },
+    {
+      "uid": "72534675ded399a0fa8c73467d02101d",
+      "css": "friendfeed-rect",
+      "code": 59414,
+      "src": "elusive"
+    },
+    {
+      "uid": "aa18911cd641967c899c575aeb80cd7e",
+      "css": "github",
+      "code": 59415,
+      "src": "elusive"
+    },
+    {
+      "uid": "798f480ad47c7c7fa6c64ece88ea2180",
+      "css": "github-text",
+      "code": 59416,
+      "src": "elusive"
+    },
+    {
+      "uid": "a58fe946fe31826f0b19cb4dfaaf13d2",
+      "css": "googleplus",
+      "code": 59417,
+      "src": "elusive"
+    },
+    {
+      "uid": "94ca559902b8930f0b267a588ffddb0b",
+      "css": "instagram",
+      "code": 59418,
+      "src": "elusive"
+    },
+    {
+      "uid": "9019381ddbf3c1007639974a480c86c2",
+      "css": "cc",
+      "code": 59419,
+      "src": "elusive"
+    },
+    {
+      "uid": "eb2180f5d31d3e2fcc08856edbd3fb8f",
+      "css": "skype",
+      "code": 59420,
+      "src": "elusive"
+    },
+    {
+      "uid": "326b529aa8b8913d3bc4a632f3dcec69",
+      "css": "slideshare",
+      "code": 59421,
+      "src": "elusive"
+    },
+    {
+      "uid": "26969cfbd811730075e4c657cc9fda2a",
+      "css": "twitter",
+      "code": 59422,
+      "src": "elusive"
+    },
+    {
+      "uid": "dc73bee1d58539abe8c96b958bf4c931",
+      "css": "fire",
+      "code": 59423,
+      "src": "elusive"
+    }
+  ]
+}
